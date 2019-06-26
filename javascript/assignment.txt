@@ -4,3 +4,6 @@ Question 2: https://jsfiddle.net/dajcm8bn/
 Assignment day 2 (20/06/2019):
 Question 1: https://jsfiddle.net/4uwp9187/
 Question 2: https://jsfiddle.net/59macubL/
+Assignment day 3 (26/06/2019)
+Question 1: https://jsfiddle.net/tLkceuh4/
+Question 2: https://jsfiddle.net/9tqywobj/
