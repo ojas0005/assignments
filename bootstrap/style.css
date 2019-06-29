@@ -1,0 +1,187 @@
+body
+{
+	color: #07e2f2;
+}
+.carousel {
+    position: relative;
+}
+div
+{
+	display: block;
+}
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+ 
+ * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.slider {
+    max-width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.noo-slider-clients, .noo_clients {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.noo-clients-default .noo-slider-clients li {
+    width: 220px;
+    float: left;
+    text-align: left;
+    margin-top: 30px;
+    /* margin-bottom: 20px; */
+    margin-bottom: 15px;
+}
+/* Footer */
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+section {
+    padding: 60px 0;
+}
+
+section .section-title {
+    text-align: center;
+    color: #07e2f2;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+#footer {
+    background: #07e2f2 !important;
+}
+#footer h5{
+	padding-left: 10px;
+    border-left: 3px solid #eeeeee;
+    padding-bottom: 6px;
+    margin-bottom: 20px;
+    color:#ffffff;
+}
+#footer a {
+    color: #ffffff;
+    text-decoration: none !important;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+#footer ul.social li{
+	padding: 3px 0;
+}
+#footer ul.social li a i {
+    margin-right: 5px;
+	font-size:25px;
+	-webkit-transition: .5s all ease;
+	-moz-transition: .5s all ease;
+	transition: .5s all ease;
+}
+#footer ul.social li:hover a i {
+	font-size:30px;
+	margin-top:-10px;
+}
+#footer ul.social li a,
+#footer ul.quick-links li a{
+	color:#ffffff;
+}
+#footer ul.social li a:hover{
+	color:#eeeeee;
+}
+#footer ul.quick-links li{
+	padding: 3px 0;
+	-webkit-transition: .5s all ease;
+	-moz-transition: .5s all ease;
+	transition: .5s all ease;
+}
+#footer ul.quick-links li:hover{
+	padding: 3px 0;
+	margin-left:5px;
+	font-weight:700;
+}
+#footer ul.quick-links li a i{
+	margin-right: 5px;
+}
+#footer ul.quick-links li:hover a i {
+    font-weight: 700;
+}
+
+@media (max-width:767px){
+	#footer h5 {
+    padding-left: 0;
+    border-left: transparent;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+}
+
+.noo_client_item a{
+
+    background-color: transparent;
+    text-decoration: none;
+
+}
+.header{
+	margin-top: 70px;
+}
+.header h1
+{
+	color: #07e2f2;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+.pt-4{
+	padding: 0px;
+}
+p
+{
+	color: black !important;
+}
+.card-product:after {
+    content: "";
+    display: table;
+    clear: both;
+    visibility: hidden; }
+  .card-product .price-new, .card-product .price {
+    margin-right: 5px; }
+  .card-product .price-old {
+    color: #999; }
+  .card-product .img-wrap {
+    border-radius: 3px 3px 0 0;
+    overflow: hidden;
+    position: relative;
+    height: 220px;
+    text-align: center; }
+    .card-product .img-wrap img {
+      max-height: 100%;
+      max-width: 100%;
+      object-fit: cover; }
+      
+      .card-product .info-wrap {
+    overflow: hidden;
+    padding: 15px;
+    border-top: 1px solid #eee; }
+  .card-product .action-wrap {
+    padding-top: 4px;
+    margin-top: 4px; }
+  .card-product .bottom-wrap {
+    padding: 15px;
+    border-top: 1px solid #eee; }
+  .card-product .title {
+    margin-top: 0; }
+    #About
+    {
+    	padding-top: 0px;
+    }
+    #selling
+    {
+    	padding-top: 0px;
+    }
+    .text-right
+    {
+    	width: 65px;
+    }
+    .header
+    {
+        margin-top: 0px;
+    }
