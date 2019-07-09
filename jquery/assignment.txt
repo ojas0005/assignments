@@ -1,5 +1,6 @@
 Assignment 1(CRUD using Jquery) Date: 03/07/2019
 https://jsfiddle.net/m34cswpx/
-Assignment 3 (Callback assignment) Date 05/07/2019
+Assignment  (Callback assignment) Date 05/07/2019
 https://jsfiddle.net/tezk5sb9/1/
-
+Assignment (Promise) Date 05/07/2019
+https://jsfiddle.net/ven24shm/
